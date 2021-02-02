@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\logis\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\logis\\.nuget\\packages"
+    ]
+  }
+}
